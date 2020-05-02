@@ -1,0 +1,21 @@
+#자바의 특징
+1. 이식성 높음
+2. 객체지향
+3. 함수적 스타일 코딩
+4. 메모리 자동 관리
+5. 다양한 앱 개발
+6. multi-thread 쉽게 구현
+7. dynamic loading 지원
+
+
+#JVM
+바이트 코드 해석/실행을 위한 "가상" 운영체제
+                            ㄴ OS별 프로그램 실행/관리 방법 다른데, JVM이 OS와 JAVA PROGRAM 중계
+                              => OS달라도 동일한 결과!
+                              
+JVM + Libraries => JRE
+JRE + Development Tools => JDK
+
+
+#main
+main method : entry point!
