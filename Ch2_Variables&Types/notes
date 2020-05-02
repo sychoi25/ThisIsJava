@@ -14,4 +14,14 @@ boolean(1)
 
 #char
 unicode 저장
+음수 x
+
+*str : class type
+str 변수 : 참조 변수!
+-> str 객체 생성, 객체 번지 참조
+
+#Type Promotion / Casting
+Type Promotion: 작은 -> 큰 : 원래값 보존
+Type Casting: 큰 -> 작은 : 원래값 보존 x
+                          ㄴ값 보존 범위 확인!
 
