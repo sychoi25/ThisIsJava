@@ -1,0 +1,17 @@
+<Variables> 
+변수 이름 : 메모리 주소 이름!
+변수에 초기값 할당(초기화) 되어야 읽기 가능
+literal: 소스코드 내 직접 입력한 변수 초기값
+method {} 내에서 선언/사용
+ㄴmethod 실행 끝나면, 메모리에서 자동 없어짐
+
+<Type>
+byte(1) char(2) short(2) int(4) long(8) folat(4) double(8)
+boolean(1)
+
+#Garbage Value
+타입 별, 저장할 수 있는 범위 넘어가면 최소값 부터 다시 반복 저장
+
+#char
+unicode 저장
+
