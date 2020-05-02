@@ -1,1 +1,9 @@
 Operators & Operands
+
+#Increase/Decrease
+++x : 먼저
+x++ : 나중에
+
+#Bit Reverse => int
+0->1 => 부호도 바뀜!
+-
