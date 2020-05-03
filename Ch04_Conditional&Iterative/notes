@@ -1,1 +1,23 @@
-<Conditional>
+#Switch
+switch(변수이름){
+  case 변수값:
+  
+    break;
+  case ...
+ 
+  }
+  
+*break없으면, 다음 cases 연달아 실행
+ 
+ 
+#Break
+반복문에 label 붙이면 종료시킬 거 지정 가능
+eg>
+LableName: for(){
+               for(){
+                  break LabelName;
+                  }
+               }
+               
+#Continue
+조건식으로 이동
