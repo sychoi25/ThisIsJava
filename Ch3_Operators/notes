@@ -10,3 +10,15 @@ x++ : 나중에
 #Arithmetic
 Arithmetic integer operation : 32bit
 overflow 주의!
+문자열 있으면 -> 문자열로 결합!
+
+#Comparison
+*float 예외
+*Str: literal이 동일하면 동일한 객체 참조
+-> 문자같은지 확인 -> .equals()
+
+#Bit
+정수!
+
+#Conditional
+x ? t : f
