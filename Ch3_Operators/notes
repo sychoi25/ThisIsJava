@@ -6,4 +6,7 @@ x++ : 나중에
 
 #Bit Reverse => int
 0->1 => 부호도 바뀜!
--
+
+#Arithmetic
+Arithmetic integer operation : 32bit
+overflow 주의!
