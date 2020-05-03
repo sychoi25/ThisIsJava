@@ -10,7 +10,7 @@ switch(변수이름){
 *break없으면, 다음 cases 연달아 실행
  
  
-#Break
+#Break : 반복문 종료!
 반복문에 label 붙이면 종료시킬 거 지정 가능
 eg>
 LableName: for(){
