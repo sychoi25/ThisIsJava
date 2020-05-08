@@ -2,3 +2,6 @@ Reference Type: Object의 번지 참조
                 => 값: address of the memory location!
                        ㄴ@Heap/Method
                        
+*null로 초기화된 참조 변수: stack 에 생성!
+
+참조변수가 null값 -> NullPointerException!!
