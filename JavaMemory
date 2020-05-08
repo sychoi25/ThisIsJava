@@ -1,0 +1,27 @@
+**
+variables @ Stack
+Objects @ Heap
+
+OS에서 할당받은 Runtime Data Area를 3 영역으로 구분
+- Method Area
+- Heap Area
+- JVM Stack
+
+#Method Area
+JVM 시작할 때 생성
+로딩된 클래스 바이트 코드 내용을 분석 후 저장
+모든 thread가 공유
+- runtime constant pool
+- field/method data
+- method code
+- constructor code
+
+#Heap Area
+JVM 시작할 때 생성
+object/array 저장 <-var/타 object filed에서 참조
+사용x -> garbage collector가 자동 제거
+
+#JVM Stack
+thread 마다 생성
+call method -> PUSH Frame @Stack -> POP Frame
+변수초기화 -> Frame 내 local var. stack에 pop!
