@@ -1,1 +1,4 @@
-ss
+Reference Type: Object의 번지 참조
+                => 값: address of the memory location!
+                       ㄴ@Heap/Method
+                       
