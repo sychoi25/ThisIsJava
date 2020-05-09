@@ -5,3 +5,26 @@ Reference Type: Object의 번지 참조
 *null로 초기화된 참조 변수: stack 에 생성!
 
 참조변수가 null값 -> NullPointerException!!
+
+
+#String
+String literal 동일하면 -> 같은 객체 참조
+ㄴ new 를 통해 새로운 객체 생성 가능
+literal 비교: .equals()
+
+#Array
+>> type[] var = null;
+>> var = new type[length];
+
+같은 타입 데이터
+Idx
+한 번 생성 -> 길이 변경 x
+~> System.arrayCopy()
+
+*multi-dimensional array [r][c] : r*c
+
+*advanced for
+for( type var : array ){};
+
+#enum
+
