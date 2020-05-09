@@ -26,5 +26,8 @@ Idx
 *advanced for
 for( type var : array ){};
 
-#enum
+#Enum
+한정된 값
+enum type 이름으로 source file(.java) 생성
+
 
